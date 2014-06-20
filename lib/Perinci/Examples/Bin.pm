@@ -1,6 +1,7 @@
 package Perinci::Examples::Bin;
 
 # VERSION
+# DATE
 
 1;
 # ABSTRACT: Perinci example scripts
