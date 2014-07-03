@@ -1,11 +1,9 @@
-#!/usr/bin/perl
+#!perl
 
+# DATE
 # VERSION
 
-# since Perinci::CmdLine requires us for testing, if we don't have
-# Perinci::CmdLine yet, we exit 0 so we don't fail compile tests.
-eval { require Perinci::CmdLine }; exit 0 if $@;
-
+use Perinci::CmdLine;
 Perinci::CmdLine->new(url=>'/Perinci/Examples/Completion/fruits')->run;
 
 # ABSTRACT: A script to test completing array argument's elements

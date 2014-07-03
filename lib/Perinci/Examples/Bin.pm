@@ -1,7 +1,9 @@
 package Perinci::Examples::Bin;
 
-# VERSION
+use 5.010001;
+
 # DATE
+# VERSION
 
 1;
 # ABSTRACT: Perinci example scripts
@@ -9,7 +11,7 @@ package Perinci::Examples::Bin;
 =head1 DESCRIPTION
 
 This distribution contains example scripts in bin/. It is split from
-L<Perinci::Example> so the latter does not need to depend on
+L<Perinci::Examples> so the latter does not need to depend on
 L<Perinci::CmdLine>.
 
 =cut
