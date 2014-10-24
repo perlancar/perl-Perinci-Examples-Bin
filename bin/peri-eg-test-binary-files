@@ -1,0 +1,14 @@
+#!perl
+
+# DATE
+# VERSION
+
+use Perinci::CmdLine;
+Perinci::CmdLine->new(url=>'/Perinci/Examples/CmdLineSrc/test_binary')->run;
+
+# ABSTRACT: Generate random bytes
+# PODNAME: peri-eg-test-binary-files
+
+=head1 SYNOPSIS
+
+=cut
