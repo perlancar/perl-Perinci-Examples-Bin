@@ -1,5 +1,15 @@
 Revision history for Perinci-Examples-Bin
 
+0.04    2014-10-30 (PERLANCAR)
+
+	- Add scripts: peri-eg-{append,read,write}-file (using the Stream
+	  variant).
+
+	- Add script: peri-eg-test-binary-files.
+
+	- Add script: peri-eg-gen-random-bytes.
+
+
 0.03     2014-07-03 (SHARYANTO)
 
          - Add script: peri-eg-test-common-opts.
