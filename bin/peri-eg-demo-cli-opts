@@ -1,0 +1,14 @@
+#!perl
+
+# DATE
+# VERSION
+
+use Perinci::CmdLine;
+Perinci::CmdLine->new(url=>'/Perinci/Examples/CLI/demo_cli_opts')->run;
+
+# ABSTRACT: Write file
+# PODNAME: peri-eg-write-file
+
+=head1 SYNOPSIS
+
+=cut
