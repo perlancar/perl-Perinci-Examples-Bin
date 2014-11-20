@@ -1,5 +1,10 @@
 Revision history for Perinci-Examples-Bin
 
+0.05    2014-11-20 (PERLANCAR)
+
+        - Add script: peri-eg-demo-cli-opts.
+
+
 0.04    2014-10-30 (PERLANCAR)
 
 	- Add scripts: peri-eg-{append,read,write}-file (using the Stream
