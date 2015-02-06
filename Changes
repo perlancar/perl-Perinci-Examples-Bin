@@ -1,10 +1,10 @@
-Revision history for Perinci-Examples-Bin
+Revision history for Perinci-Examples-Bin-Classic
 
 0.06    2015-02-06 (PERLANCAR)
 
-	- No functional changes.
-
-	- Adjust to Perinci::CmdLine -> Perinci::CmdLine::Classic.
+	- Rename module/dist from Perinci::Examples::Bin to
+          Perinci::Examples::Bin::Classic to adjust to Perinci::CmdLine ->
+          Perinci::CmdLine::Classic rename.
 
 
 0.05    2014-11-20 (PERLANCAR)
