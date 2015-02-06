@@ -1,5 +1,12 @@
 Revision history for Perinci-Examples-Bin
 
+0.06    2015-02-06 (PERLANCAR)
+
+	- No functional changes.
+
+	- Adjust to Perinci::CmdLine -> Perinci::CmdLine::Classic.
+
+
 0.05    2014-11-20 (PERLANCAR)
 
         - Add script: peri-eg-demo-cli-opts.
