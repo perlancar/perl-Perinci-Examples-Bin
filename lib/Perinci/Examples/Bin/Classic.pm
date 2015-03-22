@@ -14,4 +14,11 @@ This distribution contains example scripts in C<bin/> which use
 L<Perinci::CmdLine::Classic>. It was split from L<Perinci::Examples> so the
 latter does not need to depend on Perinci::CmdLine::*.
 
+
+=head1 SEE ALSO
+
+L<Perinci::CmdLine::Bin::Any>
+
+L<Perinci::CmdLine::Bin::Lite>
+
 =cut
